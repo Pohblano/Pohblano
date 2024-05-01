@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://github.com/Pohblano/Pohblano/assets/161651030/b39d9482-a3c5-497e-ad7b-45d807aa1ac0"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/alberto-martinez-jara">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
 <!--
 **Pohblano/Pohblano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
