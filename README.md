@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/alberto-martinez-jara">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://raw.githubusercontent.com/sugith10/images/main/gif/mario-working.gif" alt="LinkedIn Badge"/>
   </a>
 </div>
 
